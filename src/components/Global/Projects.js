@@ -93,6 +93,7 @@ class Projects extends Component{
       
             </h4> <br />
              <a className='tag-a-desktop' target="_blank" rel="noopener noreferrer" href='https://labcar-react-googlemap.herokuapp.com/'><h5>Ir al proyecto</h5></a>
+             
           </section>
         </section>
 
