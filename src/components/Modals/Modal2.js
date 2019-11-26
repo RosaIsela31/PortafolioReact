@@ -39,7 +39,7 @@ const Modal2 = ({ handleClose, show }) => {
               < FaJsSquare className='icon-skill-mobile'/>
             </div>
           </div>
-          <a className='tag-a' target="_blank" rel="noopener noreferrer" href='https://rosaisela31.github.io/MEX008-labcar/index'><b>Ir al proyecto</b></a>
+          <a className='tag-a' target="_blank" rel="noopener noreferrer" href='https://labcar-react-googlemap.herokuapp.com/'><b>Ir al proyecto</b></a>
 
         </div>
       </div>
