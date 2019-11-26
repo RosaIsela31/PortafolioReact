@@ -1,0 +1,88 @@
+@media(max-width: 425px){
+
+  .project{
+    height: 23rem;
+    margin-top: .5rem;
+  }
+
+  .project3{
+    height: 18rem;
+    margin-top: 2rem;
+  }
+
+
+  .modalid{
+    display: flex;
+    position: relative;
+    left:-30rem;
+  }
+  
+  .btn-img-project3,
+  .btn-img-project{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .btn-show-modal{
+    background-color: black;
+    color: white;
+    height: 3rem;
+    width: 9rem;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    margin-top: 1.3rem;
+    border: black;
+  }
+
+
+ 
+
+}
+
+.container-project3{
+  display: flex;
+  justify-content: center;
+  background-color: #7D6CDC;
+  width: 100vw;
+  height: 70vh;
+  margin-top: .2vh;
+}
+
+.container-project2,
+.container-project1{
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 90vh;
+}
+
+.container-project1{
+  background-color: #DB5461;
+}
+
+.container-project2{
+  background-color: #FFBC42;
+}
+
+
+@media(max-width: 320px){
+  .project3{
+    height: 15rem;
+    margin-top: 2rem;
+  }
+
+  .container-project1{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 200vh;
+  }
+
+  .project{
+    height: 50vh;
+
+  }
+}
+

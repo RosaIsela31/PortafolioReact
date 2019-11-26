@@ -1,0 +1,76 @@
+*{
+  font-family: 'Playfair Display', serif;
+}
+
+.modal-project1{
+  width: 100vw;
+  height: 70vh;
+  background-color:rgba(0, 0, 0, 1);
+  /* display: flex; */
+  margin-top: .2vh;
+  position: relative;
+  /* left:-1rem; */
+  /* padding-left: 2rem; */
+  color: white;
+
+}
+
+.modal-project1 p{
+  font-size: 1.3rem;
+}
+
+.icon-skill-mobile{
+  font-size: 2rem;
+}
+
+.container-description-project-mobile{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding: 1.3rem;
+}
+
+
+.tag-a{
+  background-color: #1d9da2;
+  height: 3.5rem;
+  width: 10.5rem;
+  border-radius: 10px;
+  border: #30BEC3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.btn-exit{
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  justify-content: flex-end;
+  background-color: none;
+}
+
+.exit{
+  height: 9vh;
+  margin-top: -1.5rem;
+  margin-left: 1rem;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}
+
+.content-text-modal{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}

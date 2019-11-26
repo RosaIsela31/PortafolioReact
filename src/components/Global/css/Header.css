@@ -1,0 +1,86 @@
+.Header {
+  text-align: center;
+  background-color: #4B4A4A;
+  height: 110px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  position: inherit;
+  width: 100%;
+}
+
+.a-navbar-desktop{
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  padding: .9rem;
+}
+
+.container-a-navbar-desktop{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Logo img {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.marca-R{
+  height: 4.5rem;
+  margin: 0%;
+  padding: 0%;
+  padding-left: 3rem;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.Menu {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.Menu li {
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.Menu li a {
+    color: #CCC;
+    text-decoration: none;
+}
+
+.Menu li a:hover {
+    color: #EEE;
+}
+
+/* ------------------------------------------------- */
+@media (max-width: 425px){
+  .marca-R{
+    display: none;
+  }
+
+  .Header {
+    text-align: center;
+    background-color: #4B4A4A;
+    height: 100px;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    display: none;
+  }
+}
+
+@media (max-width: 768px){
+  .marca-R{
+    display: none;
+  }
+}

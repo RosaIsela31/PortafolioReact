@@ -1,0 +1,240 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.firebase,
+.github,
+.javascript,
+.react,
+.node,
+.html,
+.css,
+.github-skill,
+.git{
+  margin: 1rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.hardSkills-mobile{
+  display: none;
+}
+
+.hardSkills-desktop{
+  height: 10rem;
+  display: block;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+
+.hardskills-h2{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+
+.firebase-desktop,
+.github-desktop,
+.javascript-desktop,
+.node-desktop,
+.html-desktop,
+.css-desktop{
+  height: 6rem;
+  width: 6rem;
+}
+
+.git-desktop,
+.github-skill-desktop,
+.react-desktop{
+  height: 6.6rem;
+  width: 6.6rem;
+}
+
+
+.firebase,
+.github,
+.javascript,
+.node,
+.html,
+.css{
+  height: 5rem;
+  width: 5rem;
+}
+
+@media (max-width: 320px){
+.firebase,
+.javascript,
+.node,
+.html,
+.css{
+  height: 4rem;
+  width: 4rem;
+}
+
+.firebase,
+.github,
+.javascript,
+.react,
+.node,
+.html,
+.css,
+.github-skill,
+.git{
+  margin: .5rem;
+  margin-left: .5rem;
+  margin-right: .5rem;
+  margin-top: 2rem;
+}
+
+}
+
+
+
+
+.hard-skills {
+  margin: 0%;
+  padding: 0%;
+  border: 0%;
+  text-align: center;
+  background-color: #2D2D2D;
+  height: 350px;
+  padding: 20px;
+  color: white;
+  width: 100%;
+
+  
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+
+.skills{
+  background-color: #2D2D2D;
+  margin: 0%;
+  padding: 0%;
+  border: 0%;
+}
+
+
+
+
+
+  .react-desktop,
+  .css-desktop,
+  .node-desktop,
+  .firebase-desktop,
+  .git-desktop,
+  .github-skill-desktop,
+  .html-desktop,
+  .javascript-desktop{
+    animation: bounce3 2.5s alternate infinite ease-in;
+  }
+  
+  @keyframes bounce3 {
+    0%{
+      transform: translateX(-90%);
+    }
+    100%{
+      transform: translateX(90%);
+    }
+  }
+  
+
+
+
+
+@media (max-width: 768px){
+  .hard-skills {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    text-align: center;
+    height: 400px;
+    padding: 20px;
+    color: white;
+    width: 100%;
+  }
+}
+
+
+
+@media (max-width: 425px){
+
+.git,
+.react,
+.github-skill{
+  height: 5.3rem;
+  width: 5.3rem;
+}
+
+  .hardSkills-mobile{
+    display: block;
+  }
+
+  .hardSkills-desktop{
+    display: none;
+  }
+
+  .react-desktop,
+  .css-desktop,
+  .node-desktop,
+  .firebase-desktop,
+  .git-desktop,
+  .github-skill-desktop,
+  .html-desktop,
+  .javascript-desktop{
+    display: none;
+  }
+  
+
+  .hard-skills {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    text-align: center;
+    background-color: #2D2D2D;
+    height: 600px;
+    padding: 20px;
+    color: white;
+    width: 100%;
+  }
+  
+  .git,
+  .github-skill,
+  .html,
+  .javascript{
+    animation: bounce1 2.5s alternate infinite ease-in;
+  }
+  
+  @keyframes bounce1 {
+    0%{
+      transform: translateX(-80%);
+    }
+    100%{
+      transform: translateX(20%);
+    }
+  }
+  
+  .react,
+  .css,
+  .node,
+  .firebase{
+    animation: bounce2 3.3s alternate infinite ease-in;
+  }
+  
+  @keyframes bounce2 {
+    0%{
+      transform: translateX(20%);
+    }
+    100%{
+      transform: translateX(80%);
+    }
+  }
+
+}  
+

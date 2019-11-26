@@ -1,0 +1,43 @@
+*{
+  font-family: 'Playfair Display', serif;
+}
+
+.modal-project3{
+  width: 100vw;
+  height: 70vh;
+  background-color: rgba(0, 0, 0, 1);
+  /* display: flex; */
+  margin-top: .2vh;
+  position: relative;
+  /* left:-1rem; */
+  /* padding-left: 2rem; */
+  color: white;
+}
+
+.modal-project3 p{
+  font-size: 1.3rem;
+
+}
+
+
+
+.btn-exit{
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.exit{
+  height: 9vh;
+  margin-top: -1.5rem;
+  margin-left: 1rem;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}

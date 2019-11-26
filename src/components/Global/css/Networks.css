@@ -1,0 +1,125 @@
+.Networks{
+  height: 25vh;
+  background-color: white;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  width: 100%;
+}
+
+.network{
+  height: 20vh;
+  width: 6.5vw;
+  border-radius: 200px;
+  cursor: pointer;
+  margin: 5rem;
+  border: none;
+}
+
+
+.github{
+  margin: 0%;
+  padding: 0%;
+}
+
+.email,
+.twitter,
+.linkedin,
+.github{
+  height: 14vh;
+  width: 7.5vw;
+}
+
+.email:hover,
+.twitter:hover,
+.linkedin:hover,
+.github:hover{
+  height: 16vh;
+  width: 8.5vw;
+}
+
+.icons-mobile{
+  display: none;
+}
+
+
+@media (max-width: 425px){
+  .icons-mobile{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+  }
+
+  .email-mobile,
+  .cv-mobile,
+  .twitter-mobile,
+  .linkedin-mobile,
+  .github-mobile{
+    height: 6vh;
+  }
+
+  .title-networks{
+  padding-top: 2rem;
+  padding-left: 1rem;
+  color: black;
+  justify-content: center;
+  }
+
+  .Networks{
+    margin: 0%;
+    height: 10vh;
+    background-color: white;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .network,
+  .email,
+  .cv,
+  .twitter,
+  .linkedin,
+  .github{
+    display: none;
+  }
+}
+
+@media (max-width: 768px){
+  .network{
+    border-radius: 100px;
+    cursor: pointer;
+    margin: 2rem;
+    border: none;
+  }
+
+  .email,
+  .twitter,
+  .linkedin,
+  .github{
+    height: 11vh;
+    width: 10vw;
+}
+  
+}
+
+@media (max-width: 1024px){
+  .network{
+    border-radius: 100px;
+    cursor: pointer;
+    margin: 1rem;
+    border: none;
+  }
+
+  .email,
+  .twitter,
+  .linkedin,
+  .github{
+    height: 12vh;
+    width: 10vw;
+  }
+}
