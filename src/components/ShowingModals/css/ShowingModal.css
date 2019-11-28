@@ -6,8 +6,8 @@
   }
 
   .project3{
-    height: 18rem;
-    margin-top: 2rem;
+    height: 23rem;
+    margin-top: .5rem;
   }
 
 
@@ -44,7 +44,7 @@
 .container-project3{
   display: flex;
   justify-content: center;
-  background-color: #7D6CDC;
+  background-color: #573987;
   width: 100vw;
   height: 70vh;
   margin-top: .2vh;

@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import './css/Projects.css';
 import photoBurger from '../../img/burgerqueen-project1.png';
 import photoLabcar from '../../img/labcar-project.png';
-import redsocial from '../../img/redsocial-project.png';
+import poke from '../../img/poke2.png';
 import circle from '../../img/circle.png';
 
 import ShowingModal1 from '../ShowingModals/ShowingModal1';
@@ -58,7 +58,7 @@ class Projects extends Component{
         <section className='portafolio-item1'>
           <img src={photoBurger} alt='alt' className='phooto'/>
           <br /><br /><br />
-          <h1>Burger Queen</h1>
+          <h1>PanD' Monium</h1>
           <section className='portafolio-text'>
             <h2>Burger Queen</h2> <br />
             <h4>Producto realizado para el
@@ -98,23 +98,20 @@ class Projects extends Component{
         </section>
 
         <section className='portafolio-item3'>
-          <img src={redsocial} alt='alt' className='phooto'/>
+          <img src={poke} alt='alt' className='phooto'/>
           <br /><br /><br />
-          <h1>Red Social</h1>
+          <h1>Beginning Poke</h1>
           <section className='portafolio-text'>
-            <h2>Red Social</h2> <br/>
-            <h4>Es una red social para 
-            novias, novios y proveedores.
-            Reunimos todo lo que necesitas para tu boda en un solo lugar.<br/>
-            Es una PWA realizada con JavaScript, React,
-            HTML, CSS, Nodejs y Mongodb.</h4> <br/>
+            <h2>Beginning Poke</h2> <br/>
+            <h4>Web App que consume la data de Pokemon y
+            que pretende convertirse en una herramienta efectiva, fácil de usar, amigable con la usuaria, con la finalidad de que adquiera los conocimientos básicos para adentrarse en el mundo pokémon.
+            <br/>
+            Realizada con JavaScript,
+            HTML y CSS</h4> <br/>
             <div>
              < FaJsSquare className='icon-skill'/>
-             < FaReact className='icon-skill'/>
              < FaHtml5 className='icon-skill'/>
              < FaCss3Alt className='icon-skill'/>             
-             < FaNode className='icon-skill'/>
-             < DiMongodb className='icon-skill'/>
             </div>
             <br/>
              <a className='tag-a-desktop' target="_blank" rel="noopener noreferrer" href='https://isislazaro.github.io/MEX008-social-network/src/'><h5>Ir al proyecto</h5></a>
