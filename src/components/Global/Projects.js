@@ -117,7 +117,6 @@ class Projects extends Component{
              <a className='tag-a-desktop' target="_blank" rel="noopener noreferrer" href='https://rosaisela31.github.io/MEX-Data-Lovers-008/src'><h5>Ir al proyecto</h5></a>
           </section>
         </section>
-        
       </div>
 
     
