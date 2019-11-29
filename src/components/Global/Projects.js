@@ -114,7 +114,7 @@ class Projects extends Component{
              < FaCss3Alt className='icon-skill'/>             
             </div>
             <br/>
-             <a className='tag-a-desktop' target="_blank" rel="noopener noreferrer" href='https://isislazaro.github.io/MEX008-social-network/src/'><h5>Ir al proyecto</h5></a>
+             <a className='tag-a-desktop' target="_blank" rel="noopener noreferrer" href='https://rosaisela31.github.io/MEX-Data-Lovers-008/src'><h5>Ir al proyecto</h5></a>
           </section>
         </section>
         
