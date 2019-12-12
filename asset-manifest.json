@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/RosaIsela31/PortafolioReact/static/css/main.0917b22a.chunk.css",
-    "main.js": "/RosaIsela31/PortafolioReact/static/js/main.95fffdea.chunk.js",
+    "main.js": "/RosaIsela31/PortafolioReact/static/js/main.cb0f7645.chunk.js",
     "runtime-main.js": "/RosaIsela31/PortafolioReact/static/js/runtime-main.e0b658be.js",
-    "static/js/2.12d98b3a.chunk.js": "/RosaIsela31/PortafolioReact/static/js/2.12d98b3a.chunk.js",
+    "static/js/2.c6d4e2d5.chunk.js": "/RosaIsela31/PortafolioReact/static/js/2.c6d4e2d5.chunk.js",
     "index.html": "/RosaIsela31/PortafolioReact/index.html",
-    "precache-manifest.2cae81ee8ab4bce96551e214c875f9de.js": "/RosaIsela31/PortafolioReact/precache-manifest.2cae81ee8ab4bce96551e214c875f9de.js",
+    "precache-manifest.dc614e42c2fdd40867e5fb04f438fbcd.js": "/RosaIsela31/PortafolioReact/precache-manifest.dc614e42c2fdd40867e5fb04f438fbcd.js",
     "service-worker.js": "/RosaIsela31/PortafolioReact/service-worker.js",
     "static/media/burgerqueen-project1.png": "/RosaIsela31/PortafolioReact/static/media/burgerqueen-project1.7e6dcca0.png",
     "static/media/circle.png": "/RosaIsela31/PortafolioReact/static/media/circle.1478116d.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e0b658be.js",
-    "static/js/2.12d98b3a.chunk.js",
+    "static/js/2.c6d4e2d5.chunk.js",
     "static/css/main.0917b22a.chunk.css",
-    "static/js/main.95fffdea.chunk.js"
+    "static/js/main.cb0f7645.chunk.js"
   ]
 }
