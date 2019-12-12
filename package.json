@@ -2,7 +2,7 @@
   "name": "newportafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RosaIsela31.github.io/PortafolioReact",
+  "homepage": "https://github.com/RosaIsela31/PortafolioReact",
   "dependencies": {
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
