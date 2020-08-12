@@ -12,7 +12,7 @@ class Networks extends Component {
     return(
       <div className='Networks' id='networks'>
          < div> 
-               <a target="_blank" rel="noopener noreferrer" href='http://www.linkedin.com/in/rosa-isela-lópez-palma' className='network'>
+               <a target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/rosa-isela-lopez-palma/' className='network'>
                   <img src={linkedin} alt='linkedin' className='linkedin' />
                </a>
 
@@ -30,7 +30,7 @@ class Networks extends Component {
          </div>
 
          <div className='icons-mobile' id='networks-mobile'>
-             <a target="_blank" rel="noopener noreferrer" href='http://www.linkedin.com/in/rosa-isela-lópez-palma'>
+             <a target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/rosa-isela-lopez-palma/'>
                <img src={linkedin} alt='linkedin' className='linkedin-mobile' />
              </a>
           
