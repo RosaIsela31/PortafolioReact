@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/PortafolioReact/static/css/main.0917b22a.chunk.css",
-    "main.js": "/PortafolioReact/static/js/main.6b8bb1c3.chunk.js",
-    "runtime-main.js": "/PortafolioReact/static/js/runtime-main.5daa7d7a.js",
-    "static/js/2.c6d4e2d5.chunk.js": "/PortafolioReact/static/js/2.c6d4e2d5.chunk.js",
+    "main.css": "/PortafolioReact/static/css/main.0e3f82e7.chunk.css",
+    "main.js": "/PortafolioReact/static/js/main.c6639564.chunk.js",
+    "runtime-main.js": "/PortafolioReact/static/js/runtime-main.f446778d.js",
+    "static/js/2.ea86138f.chunk.js": "/PortafolioReact/static/js/2.ea86138f.chunk.js",
     "index.html": "/PortafolioReact/index.html",
-    "precache-manifest.d0afc7baeb7a173108ae8cac4da1b035.js": "/PortafolioReact/precache-manifest.d0afc7baeb7a173108ae8cac4da1b035.js",
+    "precache-manifest.e7bff59cf6f7326cf60c5c4e407302a3.js": "/PortafolioReact/precache-manifest.e7bff59cf6f7326cf60c5c4e407302a3.js",
     "service-worker.js": "/PortafolioReact/service-worker.js",
+    "static/js/2.ea86138f.chunk.js.LICENSE.txt": "/PortafolioReact/static/js/2.ea86138f.chunk.js.LICENSE.txt",
     "static/media/burgerqueen-project1.png": "/PortafolioReact/static/media/burgerqueen-project1.7e6dcca0.png",
     "static/media/circle.png": "/PortafolioReact/static/media/circle.1478116d.png",
     "static/media/css.png": "/PortafolioReact/static/media/css.b1b39876.png",
@@ -26,9 +27,9 @@
     "static/media/react2.png": "/PortafolioReact/static/media/react2.cab24a3c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5daa7d7a.js",
-    "static/js/2.c6d4e2d5.chunk.js",
-    "static/css/main.0917b22a.chunk.css",
-    "static/js/main.6b8bb1c3.chunk.js"
+    "static/js/runtime-main.f446778d.js",
+    "static/js/2.ea86138f.chunk.js",
+    "static/css/main.0e3f82e7.chunk.css",
+    "static/js/main.c6639564.chunk.js"
   ]
 }
