@@ -54,7 +54,7 @@ class SideDrawer extends Component {
           <a href='#projects'>Proyectos</a><br/>
           <a href='#networks-mobile'>Contáctame</a> <br/>
           <a href='#cv'>CV</a><br/>
-          <a href='http://www.linkedin.com/in/rosa-isela-lópez-palma' target="_blank" rel="noopener noreferrer">Linkedin</a><br/>
+          <a href='https://www.linkedin.com/in/rosa-isela-lopez-palma/' target="_blank" rel="noopener noreferrer">Linkedin</a><br/>
           <a href='https://github.com/RosaIsela31' target="_blank" rel="noopener noreferrer">Github</a><br/>
           {/* <Sidebar show={this.state.show} handleClose={this.hideModal}/> */}
         </nav>

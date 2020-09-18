@@ -21,7 +21,7 @@ class Header extends Component {
           <a href='#projects' className='a-navbar-desktop'>Proyectos</a>
           <a href='#cv' className='a-navbar-desktop'>CV</a>
           <a href='#networks' className='a-navbar-desktop'>Contáctame</a>
-          <a href='http://www.linkedin.com/in/rosa-isela-lópez-palma' target="_blank" rel="noopener noreferrer" className='a-navbar-desktop'>Linkedin</a>
+          <a href='https://www.linkedin.com/in/rosa-isela-lopez-palma/' target="_blank" rel="noopener noreferrer" className='a-navbar-desktop'>Linkedin</a>
         </div>
 
       </div>
