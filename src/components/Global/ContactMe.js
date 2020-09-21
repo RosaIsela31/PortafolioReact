@@ -14,7 +14,7 @@ class ContactMe extends Component{
        <h4>Aquí puedes descargar mi CV</h4> <br/>
         <form>
           <button className='send' >
-          <a className='download-cv' target="_blank" rel="noopener noreferrer" href='https://drive.google.com/file/d/1JGXRspXeKcQTlg5GLScPyp9MJBKZl6Ix/view?usp=sharing'> Descargar </a>
+          <a className='download-cv' target="_blank" rel="noopener noreferrer" href='https://drive.google.com/file/d/1Wdm3Cu5w11OKFFhDMHoqZMoutIXjyja-/view?usp=sharing'> Descargar </a>
           </button>
         </form>
        </div>
