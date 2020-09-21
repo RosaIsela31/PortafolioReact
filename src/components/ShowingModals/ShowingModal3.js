@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Modal3 from '../Modals/Modal3';
-import photo from '../../img/poke2.png';
+import photo from '../../img/dog.jpeg';
 import './css/ShowingModal.css';
 
 
