@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/PortafolioReact/static/css/main.0e3f82e7.chunk.css",
-    "main.js": "/PortafolioReact/static/js/main.21435246.chunk.js",
+    "main.js": "/PortafolioReact/static/js/main.f57190a1.chunk.js",
     "runtime-main.js": "/PortafolioReact/static/js/runtime-main.f446778d.js",
     "static/js/2.ea86138f.chunk.js": "/PortafolioReact/static/js/2.ea86138f.chunk.js",
     "index.html": "/PortafolioReact/index.html",
-    "precache-manifest.7047aae03098d22153a425acaba405a1.js": "/PortafolioReact/precache-manifest.7047aae03098d22153a425acaba405a1.js",
+    "precache-manifest.fd7135885d5e3e48f5707bb2d0e26459.js": "/PortafolioReact/precache-manifest.fd7135885d5e3e48f5707bb2d0e26459.js",
     "service-worker.js": "/PortafolioReact/service-worker.js",
     "static/js/2.ea86138f.chunk.js.LICENSE.txt": "/PortafolioReact/static/js/2.ea86138f.chunk.js.LICENSE.txt",
     "static/media/burgerqueen-project1.png": "/PortafolioReact/static/media/burgerqueen-project1.7e6dcca0.png",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.f446778d.js",
     "static/js/2.ea86138f.chunk.js",
     "static/css/main.0e3f82e7.chunk.css",
-    "static/js/main.21435246.chunk.js"
+    "static/js/main.f57190a1.chunk.js"
   ]
 }
