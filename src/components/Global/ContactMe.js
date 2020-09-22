@@ -15,7 +15,7 @@ class ContactMe extends Component{
         <form>
           <button className='send' >
           <a className='download-cv' target="_blank" rel="noopener noreferrer" href='https://drive.google.com/file/d/1iQKtl3hsZg6tfgkn16icnUFwSYx_0DIq/view?usp=sharing'> Descargar </a>
-          </button>
+          </button >
         </form>
        </div>
       
